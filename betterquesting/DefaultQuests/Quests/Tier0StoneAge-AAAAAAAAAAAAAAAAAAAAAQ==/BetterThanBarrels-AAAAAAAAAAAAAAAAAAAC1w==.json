@@ -31,7 +31,7 @@
       "lockedProgress:1": 1,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "While barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot).\n\nJust watch out, they do come with some downsides. You won\u0027t be able to make them point up or down, and you can only access the contents from the front (automation can use any side). "
+      "desc:8": "While barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot).\n\nJust watch out, they do come with some downsides. You won\u0027t be able to make them point up or down, and you can only access the contents from the front (automation can use any side).§r\n\n######################################################################\n\nХоча бочки пропонують слот для одного предмета, шухлядки можуть мати до 4 слотів кожна (містять 16 стопок на слот).\n\nАле будьте обережні, вони мають свої недоліки. Ви не зможете розмістити їх вертикально або горизонтально, і ви зможете звертатися до вмісту лише з фронтальної сторони (автоматизація може використовувати будь-яку сторону). "
     }
   },
   "tasks:9": {
