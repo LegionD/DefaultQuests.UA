@@ -31,7 +31,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Copper ingots can be created by smelting copper, chalcopyrite, or malachite ore."
+      "desc:8": "Copper ingots can be created by smelting copper, chalcopyrite, or malachite ore.§r\n\n######################################################################\n\nМідні слитки можна створити, плавлячи руду copper, chalcopyrite або malachite."
     }
   },
   "tasks:9": {
