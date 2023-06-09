@@ -41,7 +41,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "This cloak is a nice substitute for the Glider. There are plenty of other magical items worth a look in the Witching Gadgets tab.\nIf you want to toggle gliding with a key - configure binding for \"Active Ability 1\" in control settings and, having item in hand, send \"/travellersgear bind 1\" to chat."
+      "desc:8": "This cloak is a nice substitute for the Glider. There are plenty of other magical items worth a look in the Witching Gadgets tab.\nIf you want to toggle gliding with a key - configure binding for \"Active Ability 1\" in control settings and, having item in hand, send \"/travellersgear bind 1\" to chat.§r\n\n######################################################################\n\nЦей плащ - чудова заміна Планеру. В закладці \"Witching Gadgets\" є ще багато інших магічних предметів, які варто розглянути.\nЯкщо ви хочете включити польот за допомогою клавіші - налаштуйте прив\u0027язку до \"Active Ability 1\" в налаштуваннях керування та, тримаючи предмет у руці, введіть команду \"/travellersgear bind 1\" в чат."
     }
   },
   "tasks:9": {
